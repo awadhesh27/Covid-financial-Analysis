@@ -1,3 +1,14 @@
+## How to Run
+Open financial_analysis.qmd in RStudio
+
+Install required packages:
+install.packages(c("tidyverse", "lubridate", "readxl", "conflicted"))
+
+Click Render
+
+## Live Report
+📌 View full report: [Live Project](https://awadhesh27.github.io/Covid-financial-Analysis/financial_analysis.html)
+
 # Covid-financial-Analysis
 Corporate Financial Resilience During COVID-19: Sweden vs Cayman Islands
 
@@ -15,5 +26,3 @@ This project analyses corporate financial performance in Sweden and the Cayman I
 - Data cleaning & missingness analysis
 - Exploratory data analysis
 
-## Live Report
-📌 View full report: [Live Project](https://awadhesh27.github.io/Covid-financial-Analysis/financial_analysis.html)
