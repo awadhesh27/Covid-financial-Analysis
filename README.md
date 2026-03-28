@@ -16,4 +16,4 @@ This project analyses corporate financial performance in Sweden and the Cayman I
 - Exploratory data analysis
 
 ## Live Report
-📌 View full report: [Live Project](https://awadhesh27.github.io/Covid-financial-Analysis/financial_analysis.html)
+📌 View full report: [Live Project]([https://awadhesh27.github.io/Covid-financial-Analysis/financial_analysis.html](https://awadhesh27.github.io/Covid-financial-Analysis/financial_analysis.html))
